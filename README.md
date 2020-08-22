@@ -8,4 +8,4 @@ Data Science Projects
 * Cross-validation of classification methods - Logistic Regression, Decision Tree, K Nearest Neighbors, Random Forest, and Support Vector Classifier
 * Best result: 77.99% accuracy (top 15%)
 
-![](https://github.com/belguteie/projects/blob/master/image.png)
+![](/images/image.png)
