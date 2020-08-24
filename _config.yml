@@ -6,3 +6,14 @@ owner:
 name: Belgutei Enkhbileg
 linkedin: #belguteie
 
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="container">
+					<ul class="icons">
+
+                        <li><a href="https://www.linkedin.com/in/belguteie" class="icon fa-linkedin"></a></li>
+
+					</ul>
+				</div>
+			</footer>
