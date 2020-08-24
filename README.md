@@ -19,3 +19,6 @@ Data Science Projects
 * Best result: 77.99% accuracy (top 15%)
 
 ![](/images/image.png)
+
+
+# [Connect with me on LinkedIn](https://www.linkedin.com/in/belguteie/)
