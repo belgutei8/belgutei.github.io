@@ -1,4 +1,8 @@
 theme: jekyll-theme-slate
 title: Belgutei Enkhbileg.
 description: Thanks for visiting.
-footer_links: linkedin_username: belguteie
+
+owner:
+name: Belgutei Enkhbileg
+linkedin: #belguteie
+
