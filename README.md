@@ -9,6 +9,8 @@ Data Science Projects
 * Data Cleaning, data visualization, feature engineering, and logistic regression model building.
 * 89% true positivity rate. 4% false positivity rate.
 
+![](images/scatter_plot.png)
+
 
 # [Project 2: Titanic Survival Prediction](https://github.com/belguteie/projects/blob/master/Titanic%20-%20Machine%20Learning.ipynb) 
 * Correctly predict if someone survived the Titanic shipwreck.
