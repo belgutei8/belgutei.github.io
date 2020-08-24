@@ -3,7 +3,12 @@
 Data Science Projects
 
 
-# [Project 1: NBA Data Analysis](https://github.com/belguteie/projects/blob/master/Titanic%20-%20Machine%20Learning.ipynb) 
+# [Project 1: Basketball Data Analysis](https://github.com/belguteie/Basketball_Analysis) 
+* Exploratory data analysis of historical NBA basketball statistics using Python. 
+* Logistic Regression Model to predict which NBA players will be voted into the Hall of Fame.
+* Data Cleaning, data visualization, feature engineering, and logistic regression model building.
+* 89% true positivity rate. 4% false positivity rate.
+
 
 # [Project 2: Titanic Survival Prediction](https://github.com/belguteie/projects/blob/master/Titanic%20-%20Machine%20Learning.ipynb) 
 * Correctly predict if someone survived the Titanic shipwreck.
