@@ -1,4 +1,6 @@
-# belgutei.github.io
+# Belgutei Enkhbileg
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/belguteie/)
 
 Data Science Projects
 
@@ -21,4 +23,4 @@ Data Science Projects
 ![](/images/image.png)
 
 
-# [Connect with me on LinkedIn](https://www.linkedin.com/in/belguteie/)
+
