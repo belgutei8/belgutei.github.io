@@ -11,7 +11,6 @@ Data Science Projects
 
 ![](images/scatter_plot.png)
 ![](images/output2.png)
-<img src="https://github.com/belguteie/belguteie.github.io/blob/master/images/output2.png" height ="200" width="200"/>
 
 # [Project 2: Titanic Survival Prediction](https://github.com/belguteie/projects/blob/master/Titanic%20-%20Machine%20Learning.ipynb) 
 * Correctly predict if someone survived the Titanic shipwreck.
