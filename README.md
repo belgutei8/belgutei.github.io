@@ -14,7 +14,7 @@ Data Science Projects
 ![](images/scatter_plot.png)
 ![](images/output2.png)
 
-# [Project 2: Titanic Survival Prediction](https://github.com/belguteie/projects/blob/master/Titanic%20-%20Machine%20Learning.ipynb) 
+# [Project 2: Titanic Survival Prediction](https://github.com/belguteie/Titanic-project) 
 * Correctly predict if someone survived the Titanic shipwreck.
 * Data Cleaning, Data Exploration, Feature Engineering, and Model Building
 * Cross-validation of classification methods - Logistic Regression, Decision Tree, K Nearest Neighbors, Random Forest, and Support Vector Classifier
